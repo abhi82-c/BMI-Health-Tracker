@@ -15,4 +15,4 @@ This is a web-based application developed as a minor project for Apex University
 - Harsh Sharma – Roll No: 23CA2611012
 
 ### Deployment Link
-- GitHub Pages: [Add deployment link here]
+- GitHub Pages: https://abhi82-c.github.io/BMI-Health-Tracker/
